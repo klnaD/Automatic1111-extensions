@@ -4,7 +4,9 @@ version date 03 / nov / 2023
 
 
 https://github.com/zanllp/sd-webui-infinite-image-browsing    #  image browser and search tool
+
 https://github.com/etherealxx/batchlinks-webui           # model downloader
+
 https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111        # tile base upscaling method
 https://github.com/mcmonkeyprojects/sd-dynamic-thresholding           #  crank CFG up to 'force' the AI to follow the prompt without the downside of high CFGs on the image
 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete           #  Autocomplete
