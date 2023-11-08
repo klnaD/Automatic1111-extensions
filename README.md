@@ -31,6 +31,7 @@ https://github.com/catppuccin/stable-diffusion-webui           # catppuccin-them
 
 https://github.com/Gourieff/sd-webui-reactor              # face swaping
 
+https://github.com/continue-revolution/sd-webui-segment-anything           # generate masks by promt and markings using segment anything model
 
 
 
