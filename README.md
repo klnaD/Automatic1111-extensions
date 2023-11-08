@@ -35,6 +35,8 @@ https://github.com/continue-revolution/sd-webui-segment-anything           # gen
 
 
 
+
+
 https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg           # remove background
 
 https://github.com/opparco/stable-diffusion-webui-two-shot             # generate two persons in same picture by sectioning
